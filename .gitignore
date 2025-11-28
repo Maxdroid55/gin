@@ -1,0 +1,32 @@
+# Ignore database files
+*.db
+*.sqlite
+*.sqlite3
+*.sql
+
+# Ignore executables (Windows)
+*.exe
+
+# Ignore Go build binaries
+*.out
+*.bin
+*.exe
+main
+app
+
+# Go build cache
+/bin/
+/build/
+/dist/
+
+# Logs
+*.log
+
+# Environment files
+.env
+
+# IDE/Editor files
+.vscode/
+.idea/
+*.swp
+

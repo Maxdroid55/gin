@@ -1,1 +1,1 @@
-My first GIN and ORM practice project
+My first GIN and GORM practice project
